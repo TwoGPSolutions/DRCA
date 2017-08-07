@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\SOURAV\Desktop\Major Project\DropBox\DropBox\bin\Test" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="DropBox" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/DropBox.pdb" publishTime="04/30/2016 14:51:59" />
+    <file relUrl="Web.config" publishTime="04/30/2016 14:51:59" />
+    <file relUrl="bin/DropBox.dll" publishTime="04/30/2016 14:51:59" />
+    <file relUrl="App_Data/dbDropBox.mdf" publishTime="04/30/2016 01:38:58" />
+    <file relUrl="default.aspx" publishTime="04/18/2016 06:35:34" />
+    <file relUrl="App_Data/dbDropBox_log.ldf" publishTime="04/30/2016 01:38:58" />
+  </publishProfile>
+</publishData>

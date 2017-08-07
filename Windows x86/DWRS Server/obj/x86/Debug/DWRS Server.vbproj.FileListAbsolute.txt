@@ -1,0 +1,11 @@
+C:\Users\SOURAV\documents\visual studio 2010\Projects\DWRS Server\DWRS Server\bin\Debug\DWRS Server.exe
+C:\Users\SOURAV\documents\visual studio 2010\Projects\DWRS Server\DWRS Server\bin\Debug\DWRS Server.pdb
+C:\Users\SOURAV\documents\visual studio 2010\Projects\DWRS Server\DWRS Server\bin\Debug\DWRS Server.xml
+C:\Users\SOURAV\documents\visual studio 2010\Projects\DWRS Server\DWRS Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SOURAV\documents\visual studio 2010\Projects\DWRS Server\DWRS Server\obj\x86\Debug\DWRS_Server.defaultFrm.resources
+C:\Users\SOURAV\documents\visual studio 2010\Projects\DWRS Server\DWRS Server\obj\x86\Debug\DWRS_Server.Resources.resources
+C:\Users\SOURAV\documents\visual studio 2010\Projects\DWRS Server\DWRS Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SOURAV\documents\visual studio 2010\Projects\DWRS Server\DWRS Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SOURAV\documents\visual studio 2010\Projects\DWRS Server\DWRS Server\obj\x86\Debug\DWRS Server.exe
+C:\Users\SOURAV\documents\visual studio 2010\Projects\DWRS Server\DWRS Server\obj\x86\Debug\DWRS Server.xml
+C:\Users\SOURAV\documents\visual studio 2010\Projects\DWRS Server\DWRS Server\obj\x86\Debug\DWRS Server.pdb
